@@ -1,0 +1,18 @@
+{
+  "name": "2scoreyumi",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "3freecreditscores.info ◄ Get Your FREE Credit Score 3freecreditscores.info, Check Your Credit For Free. Get My Credit Score For Free. Start Here Today",
+  "keywords": [
+    "3freecreditscores.info",
+    "credit score app free",
+    "way to improve credit score",
+    "credit score values",
+    "credit score knowledge"
+  ],
+  "repository": "https://github.com/truelestor/2scoreyumi.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
